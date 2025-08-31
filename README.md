@@ -1,4 +1,4 @@
-![AtikaMaulida](C:\Users\ASUS\Desktop\AtikaMaulida04\github-header-banneratika.png)
+![AtikaMaulida04](github-header-banneratika.png)
 
 ## 👩‍💻 About Me
 Hello, I’m **Atika Maulida** 👋  
