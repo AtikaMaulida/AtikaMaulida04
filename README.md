@@ -1,6 +1,5 @@
-![AtikaMaulida04](github-header-banneratika.png)
+![AtikaMaulida](img/github-header-banner.png)
 
-## 👩‍💻 About Me
 Hello, I’m **Atika Maulida** 👋  
 I have a strong interest in **Electrical Engineering, IoT Development, PCB Design, and Automation Systems**.  
 I enjoy combining **hardware and software** to create innovative and impactful solutions. 
